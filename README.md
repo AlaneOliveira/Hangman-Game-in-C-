@@ -1,7 +1,7 @@
-🕹️ About
+<h1>🕹️ About </h1>
 This project is a version of the classic Hangman game, where the player must guess a hidden word letter by letter or try to guess the entire word at once. The game supports multiple rounds, tracks wins and losses, and displays a progressive ASCII art hangman figure with each incorrect guess.
 
-<img width="1072" height="577" alt="Captura de tela 2025-07-30 114201" src="https://github.com/user-attachments/assets/03abad3f-97cd-4e61-b93f-3b13658e858c" />
+<img width="1072" height="577" alt="img" src="https://github.com/user-attachments/assets/03abad3f-97cd-4e61-b93f-3b13658e858c" />
 
 ✨ Main Features
 ✅ Supports words with spaces (phrases)
